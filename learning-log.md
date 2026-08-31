@@ -46,3 +46,42 @@ CVE-003 AI Model Vulnerability
 ## 下一步
 
 学习JSON以及API。
+
+
+
+# 02 JSON + API
+
+## 今天学习
+
+JSON是什么？
+
+## 我的理解
+
+json就是一种字符串外面需要用引号进行包裹
+
+## dumps
+## loads
+我理解为：
+- **dumps**：dump to string → 输出字符串
+- **loads**：load from string → **输入必须给字符串**
+
+
+……
+
+## 实验
+
+Python对象
+↓
+JSON
+↓
+Python对象
+
+## 遇到的问题
+没有弄明白到底json是字符串还有python中封装的是字典
+
+## 实验结果
+成功将json字符串和python字典进行转换
+
+## 下一步
+
+学习HTTP和API。
