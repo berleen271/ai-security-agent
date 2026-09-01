@@ -88,3 +88,43 @@ Python对象
 API：我可以通过什么入口获取功能/数据
 
 HTTP：我和这个服务器怎么进行网络通信
+# 02 API 基础
+
+## 今天学了什么
+
+- API
+- Request
+- Response
+- HTTP
+- GET
+- URL
+- URL 参数
+- requests
+- response.json()
+- list / dict
+- for / if
+
+## 今天完成的实验
+
+使用 JSONPlaceholder API：
+
+1. 使用 requests.get() 发送 GET 请求
+2. 使用 params 传递参数
+3. 获取 Response
+4. 检查 status_code
+5. 使用 response.json() 获取 Python 数据
+6. 使用 for + if 筛选数据
+
+## 我的理解
+
+API 是服务器向外提供功能或数据的接口。
+
+Request 是客户端向服务器发送的请求。
+
+Response 是服务器对请求的响应。
+
+GET 通常用于获取数据。
+
+params 用于向 API 提供查询条件。
+
+response.json() 可以把 JSON 响应解析成 Python 对象。
